@@ -1,0 +1,14 @@
+{
+	"category" : "Roassal2-Shapes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"style" ],
+	"name" : "RTBorderStyle",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

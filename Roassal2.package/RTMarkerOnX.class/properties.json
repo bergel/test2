@@ -1,0 +1,15 @@
+{
+	"category" : "Roassal2-Builder-Grapher-Decorators",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value",
+		"markerColor" ],
+	"name" : "RTMarkerOnX",
+	"pools" : [
+		 ],
+	"super" : "RTAbstractGrapherDecorator",
+	"type" : "normal" }

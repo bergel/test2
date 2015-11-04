@@ -1,0 +1,20 @@
+{
+	"category" : "Roassal2-Experimental",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"radius",
+		"distortion",
+		"k1",
+		"k0",
+		"focus",
+		"position",
+		"view" ],
+	"name" : "RTFisheye",
+	"pools" : [
+		 ],
+	"super" : "RTInteraction",
+	"type" : "normal" }

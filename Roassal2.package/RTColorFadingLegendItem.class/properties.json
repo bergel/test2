@@ -1,0 +1,16 @@
+{
+	"category" : "Roassal2-Builder-Legend",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"startColor",
+		"endColor",
+		"description" ],
+	"name" : "RTColorFadingLegendItem",
+	"pools" : [
+		 ],
+	"super" : "RTLegendItem",
+	"type" : "normal" }

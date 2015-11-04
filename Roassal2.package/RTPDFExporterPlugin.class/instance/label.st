@@ -1,0 +1,3 @@
+hooks
+label
+	^ 'PDF Exporter'

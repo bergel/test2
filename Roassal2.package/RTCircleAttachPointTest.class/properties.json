@@ -1,0 +1,14 @@
+{
+	"category" : "Roassal2-AttachPoint-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RTCircleAttachPointTest",
+	"pools" : [
+		 ],
+	"super" : "RTTest",
+	"type" : "normal" }

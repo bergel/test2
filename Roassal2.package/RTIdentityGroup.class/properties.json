@@ -1,0 +1,14 @@
+{
+	"category" : "Roassal2-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "RTIdentityGroup",
+	"pools" : [
+		 ],
+	"super" : "RTGroup",
+	"type" : "normal" }

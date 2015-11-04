@@ -1,0 +1,18 @@
+{
+	"category" : "Roassal2-AttachPoint-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"el",
+		"elX",
+		"elD",
+		"edgeX",
+		"edgeD" ],
+	"name" : "RTRectangleAttachPointTest",
+	"pools" : [
+		 ],
+	"super" : "RTTest",
+	"type" : "normal" }

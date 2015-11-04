@@ -1,0 +1,23 @@
+{
+	"category" : "Roassal2-Builder-Grapher-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"builder",
+		"maxX",
+		"maxY",
+		"minX",
+		"minY",
+		"x",
+		"y",
+		"elements",
+		"barBuilder",
+		"elementActions" ],
+	"name" : "RTAbstractData",
+	"pools" : [
+		 ],
+	"super" : "RTObject",
+	"type" : "normal" }
